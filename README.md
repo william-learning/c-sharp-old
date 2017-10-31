@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -24,3 +25,7 @@ mono_installation.txt contains the terminal commands to install mono in the Clou
 
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
 To watch some training videos, visit http://www.youtube.com/user/c9ide.
+=======
+# c-sharp
+C# and .NET Projects
+>>>>>>> c8c8fda34d88f0b40eb3fdf34ec4bd9cb2801d18
